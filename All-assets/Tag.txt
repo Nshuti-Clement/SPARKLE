@@ -1,0 +1,20 @@
+lms, academy, eclass, elearning, education, online course,  learning management system, live class, live meeting, online education, online teaching, udemy, quiz, school, skillshare
+
+
+
+Student Login 
+Email	    : student@onest.com
+Password	: 123456
+Demo Link	https://academy.onesttech.com/sign-in
+
+
+Instructor Login
+Email	    : instructor@onest.com
+Password	: 123456
+Demo Link	https://academy.onesttech.com/sign-in
+
+
+Admin Login 
+Email	    : admin@onest.com
+Password	: 123456
+Demo Link	https://academy.onesttech.com/admin/login
