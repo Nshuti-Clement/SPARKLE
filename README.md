@@ -15,4 +15,3 @@ HealthEdu LMS is likely a proprietary learning management system developed by a 
 -   Support for third-party plugins and add-ons
 -   Built-in SEO optimization and analytics capabilities
 -   Multi-language support
-<iframe src="" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
