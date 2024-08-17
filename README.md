@@ -1,6 +1,6 @@
-# HealthEdu
+# SPARKLE
 
-HealthEdu LMS is likely a proprietary learning management system developed by a company or organization called HealthEdu. Information about this specific LMS is not readily available, as the name "HealthEdu" does not correspond to any well-known educational institutions or companies. If you have access to the HealthEdu LMS, you can ask the provider or administrator for more information about its features, capabilities, and any unique aspects.
+SPARKLE LMS is likely a proprietary learning management system developed by a company or organization called SPARKLE. Information about this specific LMS is not readily available, as the name "SPARKLE" does not correspond to any well-known educational institutions or companies. If you have access to the SPARKLE LMS, you can ask the provider or administrator for more information about its features, capabilities, and any unique aspects.
 
 ## Features
 
